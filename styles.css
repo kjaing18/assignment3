@@ -1,0 +1,21 @@
+
+header{
+  border: solid;
+  border-color: red;
+}
+footer{
+  border: solid;
+  border-color: orange;
+}
+nav{
+  border: solid;
+  border-color: green;
+}
+article{
+  border: solid;
+  border-color: blue;
+}
+
+*{
+  box-sizing: border-box;
+}

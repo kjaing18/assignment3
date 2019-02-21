@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header{
+  order: 0;
+  width: 100%;
+}
+
+footer{
+  order: 10000000000;
+  width: 100%;
+}
